@@ -2,8 +2,8 @@ import requests
 import json
 
 # API ключи
-VIRUSTOTAL_API_KEY = '013c5118a79a14414904681a5093fd1dea9b8c9c5ba22bafb8b885a7e9a557ce'
-ABUSEIPDB_API_KEY = '2d25d888f611713a4e1e73de69039b4ce9d6e212412bab20bdf9cf3943c2fabaa00836b25fad8d29'
+VIRUSTOTAL_API_KEY = 'your_key'
+ABUSEIPDB_API_KEY = 'your_key'
 
 # Функция для записи в файл
 def write_to_file(message, file='output.txt'):
